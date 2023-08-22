@@ -45,11 +45,11 @@ elif direction == "left":
             print("You were eaten by beasts! Sorry!")
             print("Game over!")
         else:
-            print("You chose nothing, idiot!")
+            print("You chose nothing!")
             print("Game over!!!!!!")
     else:
         print("You choose nothing! Sorry!")
         print("Game over!")
 else:
-    print("You choose nothing! Sorry!")
+    print("You chose nothing! Sorry!")
     print("Game over!")
